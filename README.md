@@ -1,4 +1,5 @@
 #Client-Server Architecture
+
 Client-server architecture, architecture of a computer network in which many clients (remote processors) 
 request and receive service from a centralized server (host computer).
 This is a very naive implementation of broadcasting over a network.
